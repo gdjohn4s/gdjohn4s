@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Johnny</h1>
-<h3 align="center">I'm 22 year old back-end stack developer and sistemist who love shells and development, actually emploed in @green-vulcano.
+<h3 align="center">I'm 22 year old back-end developer and sistemist who love shells and development, actually employed in @green-vulcano.
 Too curious sometimes, i really love to study and improve myself.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0e75b6&style=flat" alt="gdjohn4s" /> </p>
