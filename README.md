@@ -29,6 +29,3 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gdjohn4s&layout=compact" alt="gdjohn4s" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdjohn4s&show_icons=true" alt="gdjohn4s" /></p>
