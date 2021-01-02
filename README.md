@@ -8,7 +8,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 - 🔭 I’m currently working on **DiscordBot, Barber WebApp**
 
-- 🌱 I’m currently learning **Node, Express.js, React**
+- 🌱 I’m currently learning **Python(in love with), Node, Express.js, React**
 
 - 📫 How to reach me **john4s@protonmail.ch**
 
