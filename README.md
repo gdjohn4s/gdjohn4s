@@ -6,7 +6,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 ##
 
-- 🌱 I’m currently learning **Python(in love with), Node, Express.js**
+- 🌱 I’m currently learning **Python(in love with), Scripting, Pentesting**
 
 - 📫 How to reach me **john4s@protonmail.ch**
 
