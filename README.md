@@ -15,6 +15,5 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/giovanni-d-andrea-b3b456111" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="giovanni-d-andrea-b3b456111" height="30" width="40" /></a>
-<a href="https://instagram.com/jomationdigital" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="jomationdigital" height="30" width="40" /></a>
 </p>
 
