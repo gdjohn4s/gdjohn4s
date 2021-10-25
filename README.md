@@ -6,7 +6,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 ##
 
-- 🌱 I’m currently learning **C++(Big love), Python(in love with), JavaScript**
+- 🌱 Programming language I’m currently using **C, Python(in love with)**
 
 - 📫 How to reach me **john4s@protonmail.ch**
 
