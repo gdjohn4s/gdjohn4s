@@ -6,7 +6,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 ##
 
-- 🌱 Scripting language I’m currently using **C, Python(in love with), Perl, Bash**
+- 🌱 Scripting language I’m currently using **Python(in love with 🐍), C, Perl, Bash**
 
 - 📫 How to reach me **john4s@protonmail.ch**
 
