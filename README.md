@@ -6,7 +6,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 ##
 
-- 🌱 Scripting language I’m currently using **Python(in love with 🐍), C, Bash, Powershell, A little bit C++**
+- 🌱 Languages I’m currently using **Python(in love with 🐍), C, Bash, Powershell, A little bit C++**
 
 - 📫 How to reach me **john4s@protonmail.ch**
 
