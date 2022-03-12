@@ -7,7 +7,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 ##
 - 💻 Languages I’m currently using **Python(in love with 🐍), C, Bash, Powershell**
 
-- 📫 How to reach me **john4s@protonmail.ch**
+- 📫 How to reach me **info@jonnytec.it**
 
 - ⚡ Fun fact **Nope**
 
