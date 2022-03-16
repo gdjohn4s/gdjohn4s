@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋</h1>
-<h3 align="center">I'm a Professional System/DB administrator and script programmer.
+<h1 align="center">Hello! 👋</h1>
+<h3 align="center">I'm a Professional System and Database administrator. On daily basis I do some scripting to automate my work processes.
 Too curious sometimes, i really love to study and improve myself.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0e75b6&style=flat" alt="gdjohn4s" /> </p>
