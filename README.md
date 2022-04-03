@@ -5,6 +5,8 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0e75b6&style=flat" alt="gdjohn4s" /> </p>
 
 ##
+- 🌱 Currently learning **Flutter**
+
 - 💻 Languages I’m currently using **Python(in love with 🐍), C, Bash, Powershell**
 
 - 📫 How to reach me **info@jonnytec.it**
