@@ -39,3 +39,5 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"
 </p>
+  <h2><strong>If you wan't to support me just</strong></h2>
+  <a align="center" href="https://www.buymeacoffee.com/jontec" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
