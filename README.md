@@ -6,7 +6,7 @@ Too curious sometimes, i really love to study and improve myself.</h3>
 
 ##
 
-- 💻 Languages I’m currently using **Python(in love with 🐍), C, Bash, Powershell**
+- 💻 Languages I’m currently using **Go, Python(in love with 🐍), C, Bash, Powershell**
 
 - 📫 How to reach me **info@exifly.it**
 
