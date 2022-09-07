@@ -19,7 +19,7 @@
 👯 I’m looking to collaborate on [Exifly.it](https://github.com/Exifly)
 </p>
 <p align="center">
-👨‍💻 All of my projects are available at [https://giovanni.exifly.it/](https://giovanni.exifly.it/)
+👨‍💻 All of my projects are available at [Portfolio](https://giovanni.exifly.it/)
 </p>
 <p align="center">
 💬 Ask me about <b>Linux, bash, automation</b>
