@@ -13,7 +13,7 @@
 🔭 I’m currently working on [My Company](https://exifly.it)
 </p>
 <p align="center">
-🌱 I’m currently learning <b>Golang, CI/CD, Django</b>
+🌱 I’m currently learning <b>Rust, Golang, CI/CD, Django</b>
 </p>
 <p align="center">
 👯 I’m looking to collaborate on [Exifly.it](https://github.com/Exifly)
