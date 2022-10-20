@@ -22,7 +22,7 @@
 👨‍💻 All of my projects are available at [Portfolio](https://giovanni.exifly.it/)
 </p>
 <p align="center">
-💬 Ask me about <b>Linux, bash, automation</b>
+💬 Ask me about <b>Linux, bash, automation, Servers, DevOps</b>
 </p>
 <p align="center">
 📫 How to reach me <b>giovanni@exifly.it</b>
