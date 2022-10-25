@@ -45,3 +45,22 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/jontec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jontec" /></a></p><br><br>
+<div align="center">
+<img src="https://bitcoin.org/img/icons/opengraph.png?1666174126" alt="bitcoin" width="40" height="40"/>
+</div>
+<div align="center">
+<strong>18dqLT19TQTGRnCGjEYvWHNf3uT1CULif8</strong>
+</div>
+</div>
+<div align="center">
+<img src="https://images.youngplatform.com/coins/eth.png" alt="ethereum" width="40" height="40"/>
+</div>
+<div align="center">
+<strong>0xa27f5fb7c69e6f2708d3814753278a0e77999603</strong>
+</div>
+<div align="center">
+<img src="https://w7.pngwing.com/pngs/394/518/png-transparent-brown-shiba-inu-doge-weather-shiba-inu-doge-click-doge-snake-doge-miscellaneous-mammal-carnivoran-thumbnail.png" alt="dogecoin" width="40" height="40"/>
+</div>
+<div align="center">
+<strong>DNg6oFHRFLocunn79xoaN93QhE4DVxHQCL</strong>
+</div>
