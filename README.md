@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jontec</h1>
-<h3 align="center">I'm a Professional System administrator and Software Developer. On daily basis I do some scripting to automate my work processes and a lot of problem solving on server-side infrastructure and application. Too curious sometimes, i really love to study and improve myself.</h3>
+<h3 align="center">I'm a Professional System administrator. On daily basis I do some scripting to automate my work processes and a lot of problem solving on server-side infrastructure and application. Too curious sometimes, i really love to study and improve myself.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
@@ -13,7 +13,7 @@
 🔭 I’m currently working on [My Company](https://exifly.it)
 </p>
 <p align="center">
-🌱 I’m currently using <b>Python[Most Django], Rust, Bash</b>
+🌱 I’m currently using <b>Python, Bash</b>
 </p>
 <p align="center">
 👯 I’m looking to collaborate on [Exifly.it](https://github.com/Exifly)
