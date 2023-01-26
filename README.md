@@ -1,25 +1,23 @@
-<h1 align="center">Hi 👋, I'm Jontec</h1>
+
+![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresgif.gif)
+
 <h3 align="center">I'm a Professional System administrator and Python developer. On daily basis I do some scripting to automate my work processes and a lot of problem solving on server-side infrastructure and application. Too curious sometimes, i really love to study and improve myself.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gdjohn4s" alt="gdjohn4s" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/jontec8" target="blank"><img src="https://img.shields.io/twitter/follow/jontec8?logo=twitter&style=for-the-badge" alt="jontec8" /></a> </p>
-
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdjohn4s&show_icons=true&theme=tokyonight&locale=en" alt="gdjohn4s" /></p>
 
 <p align="center">
-🔭 I’m currently working on [My Company](https://exifly.it)
+🔭 I’m currently working on <a href="https://exifly.it">My Company</a>
 </p>
 <p align="center">
-🌱 I’m currently using <b>Python, Bash</b>
+🌱 I’m currently using <b>Python, Rust, Bash</b>
 </p>
 <p align="center">
-👯 I’m looking to collaborate on [Exifly.it](https://github.com/Exifly)
+👯 I’m looking to collaborate on <a href="https://github.com/Exifly">Exifly.it</a>
 </p>
 <p align="center">
-👨‍💻 All of my projects are available at [Portfolio](https://giovanni.exifly.it/)
+👨‍💻 All of my projects are available at <a href="https://giovanni.exifly.it/">Portfolio</a>
 </p>
 <p align="center">
 💬 Ask me about <b>Linux, bash, automation, Servers, DevOps</b>
