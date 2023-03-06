@@ -1,7 +1,7 @@
 
 ![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresgif.gif)
 
-<h3 align="center">I'm a Professional System administrator and Python developer. On daily basis I do some scripting to automate my work processes and a lot of problem solving on server-side infrastructure and application. Too curious sometimes, i really love to study and improve myself.</h3>
+<h3 align="center">I'm a Freelance Python/Javascript developer and ex Professional System administrator. I try to stays up-to-date with the latest technological trends and always looking for ways to improve my skills. I hope to make a significant impact in the programming community!</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
@@ -11,7 +11,7 @@
 🔭 I’m currently working on <a href="https://exifly.it">My Company</a>
 </p>
 <p align="center">
-🌱 I’m currently using <b>Python, Rust, Bash</b>
+🌱 I’m currently using <b>Python, Javascript, Bash, Node.js, Vue.js, Django</b>
 </p>
 <p align="center">
 👯 I’m looking to collaborate on <a href="https://github.com/Exifly">Exifly.it</a>
