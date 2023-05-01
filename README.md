@@ -1,5 +1,5 @@
 
-![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresgif.gif)
+![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
 
 <h3 align="center">I'm a Freelance Python/Javascript developer and ex Professional System administrator. I try to stays up-to-date with the latest technological trends and always looking for ways to improve my skills. I hope to make a significant impact in the programming community!</h3>
 
