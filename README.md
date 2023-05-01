@@ -5,8 +5,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gdjohn4s&show_icons=true&theme=tokyonight&locale=en" alt="gdjohn4s" /></p>
-
 <p align="center">
 🔭 I’m currently working on <a href="https://exifly.it">My Company</a>
 </p>
@@ -17,16 +15,10 @@
 👯 I’m looking to collaborate on <a href="https://github.com/Exifly">Exifly.it</a>
 </p>
 <p align="center">
-👨‍💻 All of my projects are available at <a href="https://giovanni.exifly.it/">Portfolio</a>
-</p>
-<p align="center">
-💬 Ask me about <b>Linux, bash, automation, Servers, DevOps</b>
+💬 Ask me about <b>Linux, bash, Servers, Web Technologies, AI, Mobile Software</b>
 </p>
 <p align="center">
 📫 How to reach me <b>giovanni@exifly.it</b>
-</p>
-<p align="center">
-⚡ Fun fact <b>I think I'm funny</b>
 </p>
 
 <h3 align="center">Connect with me:</h3>
