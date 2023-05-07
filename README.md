@@ -1,21 +1,15 @@
 
 ![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
 
-<h3 align="center">I'm a Freelance Python/Javascript developer and ex Professional System administrator. I try to stays up-to-date with the latest technological trends and always looking for ways to improve my skills. I hope to make a significant impact in the programming community!</h3>
+<h3 align="center">Freelance Javascript/Python developer and ex Professional System administrator from Italy 🇮🇹🤌</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
 <p align="center">
-🔭 I’m currently working on <a href="https://exifly.it">My Company</a>
+🔭 I’m currently working on <a href="https://exifly.it">Exifly</a>
 </p>
 <p align="center">
 🌱 I’m currently using <b>Python, Javascript, Bash, Node.js, Vue.js, Django</b>
-</p>
-<p align="center">
-👯 I’m looking to collaborate on <a href="https://github.com/Exifly">Exifly.it</a>
-</p>
-<p align="center">
-💬 Ask me about <b>Linux, bash, Servers, Web Technologies, AI, Mobile Software</b>
 </p>
 <p align="center">
 📫 How to reach me <b>giovanni@exifly.it</b>
