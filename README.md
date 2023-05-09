@@ -1,15 +1,15 @@
 
 ![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
 
-<h3 align="center">Freelance Javascript/Python developer and ex Professional System administrator from Italy 🇮🇹🤌</h3>
+<h3 align="center">Freelance Vue[TS] & Python developer and ex Professional System administrator from Italy 🇮🇹🤌</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
 <p align="center">
-🔭 I’m currently working on <a href="https://exifly.it">Exifly</a>
+🔭 I’m currently working on <a href="https://apivault.dev">APIVault</a> and <a href="https://exifly.it">Exifly</a>
 </p>
 <p align="center">
-🌱 I’m currently using <b>Python, Javascript, Bash, Node.js, Vue.js, Django</b>
+🌱 I’m currently using <b>Python, TypeScript, Bash, Node.js, Vue.js, Django</b>
 </p>
 <p align="center">
 📫 How to reach me <b>giovanni@exifly.it</b>
