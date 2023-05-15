@@ -1,7 +1,7 @@
 
 ![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
 
-<h3 align="center">Freelance Vue[TS] & Python developer and ex Professional System administrator from Italy 🇮🇹🤌</h3>
+<h3 align="center">Vue.js & Python developer, ex Professional System administrator from Italy 🇮🇹🤌</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
