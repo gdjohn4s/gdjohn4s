@@ -1,4 +1,4 @@
-<h3 align="center">Vue.js & Python developer, ex Professional System administrator from Italy 🇮🇹🤌</h3>
+<h3 align="center">Typescript & Python developer, ex Professional System administrator from Italy 🇮🇹🤌</h3>
 
 ![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
 
