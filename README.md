@@ -45,7 +45,9 @@
 <hr />
 
 <h3 align="left"><strong>Support me:</strong></h3>
-<p align="left"><a href="https://www.buymeacoffee.com/jontec"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jontec" /></a></p>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I0LQ9O3)
+
 <br>
 
 <h3 align="left"><strong>Or with Crypto:</strong></h3>
