@@ -1,4 +1,4 @@
-<h3 align="center">Typescript & Python developer, ex Professional System administrator from Italy 🇮🇹🤌</h3>
+<h3 align="center">Software developer, ex Professional System administrator from Italy 🇮🇹🤌</h3>
 
 ![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
 
@@ -18,7 +18,7 @@
   </li>
   <li>
     <p align="left">
-    🌱 I’m currently using <b>Python, TypeScript, Bash, Node.js, Vue.js, Django</b>
+    🌱 I’m currently using <b>Python, TypeScript, Bash, Node.js, Vue.js, Rust</b>
     </p>
   </li>
   <li>
