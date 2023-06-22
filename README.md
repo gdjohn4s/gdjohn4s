@@ -1,10 +1,7 @@
-<h3 align="center">Software developer, ex Professional System administrator from Italy 🇮🇹🤌</h3>
-
-![](https://github.com/gdjohn4s/gdjohn4s/blob/main/githubpresentation.gif)
+<h2 align="center">Software developer, ex Professional System administrator from Italy 🇮🇹🤌</h2>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gdjohn4s&label=Profile%20views&color=0eb456&style=flat" alt="gdjohn4s" /> </p>
 
-<hr />
 <h3>
   <strong>
     What am I doing?
