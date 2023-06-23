@@ -15,7 +15,7 @@
   </li>
   <li>
     <p align="left">
-    🌱 I’m currently using <b>Python, TypeScript, Bash, Node.js, Vue.js, Rust</b>
+    🌱 I’m currently using <b>Rust, Vue.js (Nuxt), Python, Bash</b>
     </p>
   </li>
   <li>
