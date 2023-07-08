@@ -39,7 +39,7 @@
 
 <hr />
 
-<h3 align="left"><strong>Support me:</strong></h3>
+<h3 align="left"><strong>Support me ❤️:</strong></h3>
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I3I0LQ9O3)
 
