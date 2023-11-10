@@ -10,7 +10,7 @@
 <ul>
   <li>
     <p align="left">
-    🔭 I’m currently working on <a href="https://apivault.dev">Apivault</a> and <a href="https://exifly.it">Exifly</a>
+    🔭 I’m currently working as a Freelancer
     </p>
   </li>
   <li>
