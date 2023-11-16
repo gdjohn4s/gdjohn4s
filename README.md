@@ -10,7 +10,7 @@
 <ul>
   <li>
     <p align="left">
-    🔭 I’m currently working as a **Freelancer**
+    🔭 I’m currently working as a <b>Freelancer</b>
     </p>
   </li>
   <li>
