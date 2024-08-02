@@ -21,6 +21,9 @@
     🔭 I’m currently working as a <b>Freelancer</b>
     </p>
     <p align="center">
+    ⚙️ Maintainer of <b>Codeishot, Apivault, Parsimoney</b>
+    </p>
+    <p align="center">
     🦎 Exploring <b>Zig</b> programming language
     </p>
     <p align="center">
