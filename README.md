@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
   <a href="https://twitter.com/jontec8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
   <h3>
   <strong>
@@ -18,13 +18,10 @@
   </strong>
 </h3>
     <p align="center">
-    🔭 I’m currently working as a <b>Freelancer</b>
+    🔭 I’m currently working as a <b>Freelancer</b> and as a **Co-Founder**
     </p>
     <p align="center">
     ⚙️ Maintainer of <b>Codeishot, Apivault, Parsimoney</b>
-    </p>
-    <p align="center">
-    🦎 Exploring <b>Zig</b> programming language
     </p>
     <p align="center">
     📫 How to reach me <b>g.dandrea98(at)outlook(dot)com</b>
