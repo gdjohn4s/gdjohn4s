@@ -18,7 +18,7 @@
   </strong>
 </h3>
     <p align="center">
-    🔭 I’m currently working as a <b>Freelancer</b> and as a **Co-Founder**
+    🔭 I’m currently working as a <b>Freelancer</b> and as a <b>Co-Founder</b>
     </p>
     <p align="center">
     ⚙️ Maintainer of <b>Codeishot, Apivault, Parsimoney</b>
@@ -36,7 +36,7 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/Cpp-000000?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cpp logo"  />
+  <img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
   <img width="12" />
