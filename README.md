@@ -21,9 +21,6 @@
     🔭 I’m currently working as a <b>Freelancer</b> and as a <b>Co-Founder</b>
     </p>
     <p align="center">
-    ⚙️ Maintainer of <b>Codeishot, Apivault, Parsimoney</b>
-    </p>
-    <p align="center">
     📫 How to reach me <b>g.dandrea98(at)outlook(dot)com</b>
     </p>
 </div>
