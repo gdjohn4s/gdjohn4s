@@ -1,8 +1,19 @@
-<h2 align="center">Software developer from Italy 🇮🇹🤌</h2>
+### Hey there 👋
 
+![Software Developer (2)](https://github.com/user-attachments/assets/040625b6-0139-49fd-8e3a-4b92055b4080)
+
+I’m a software developer with a solid background in systems administration who loves turning complex ideas into clean, dependable code.  
+I blend disciplined engineering with a relaxed attitude that keeps collaboration smooth and enjoyable, and I stay curious about new tools and practices that raise the bar.
+
+Outside the codebase you’ll find me exploring new cities, perfecting an espresso shot, or planning my next hike.
+
+I’m ambitious, my goal is to change the world through simplicity, and that’s why I made (with my team) **[@Exastudio](https://github.com/Exastudioo)**.  
+Proud winner of the **Hack&Blast** hackathon (sponsored by Google) with the Exastudio team.
+
+Let’s build something great together 🚀
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://discord.gg/SwbktCekbs" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
@@ -12,19 +23,10 @@
   <a href="https://twitter.com/jontec8" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=X&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <h3>
-  <strong>
-    What am I doing?
-  </strong>
-</h3>
-    <p align="center">
-    🔭 I’m currently working as a <b>Freelancer</b> and as a <b>Co-Founder</b>
-    </p>
-    <p align="center">
-    📫 How to reach me <b>g.dandrea98(at)outlook(dot)com</b>
-    </p>
 </div>
 <hr />
+
+### Main Technologies
 
 ###
 
@@ -33,7 +35,9 @@
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge" height="30" alt="c logo"  />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=for-the-badge" height="30" alt="rust logo"  />
   <img width="12" />
@@ -41,9 +45,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="django logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/C-000000?logo=c&logoColor=white&style=for-the-badge" height="30" alt="c logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
 </div>
