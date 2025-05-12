@@ -7,7 +7,7 @@ I blend disciplined engineering with a relaxed attitude that keeps collaboration
 
 Outside the codebase you’ll find me exploring new cities, perfecting an espresso shot, or planning my next hike.
 
-I’m ambitious, my goal is to change the world through simplicity, and that’s why I made (with my team) **[@Exastudio](https://github.com/Exastudioo)**.  
+I’m ambitious, my goal is to change the world through simplicity, and that’s why I made (with my team) **[@Exastudio](https://github.com/exa-studio)**.  
 Proud winner of the **Hack&Blast** hackathon (sponsored by Google) with the Exastudio team.
 
 Let’s build something great together 🚀
